@@ -1,6 +1,6 @@
 # Email and Page plugin
 
-This plugin servers several purposes.
+This plugin serves several purposes.
 - Boilerplate code for future plugin development.
 - Demonstrates ability to develop an MVC architecture in Wordpress.
 - Adds an autoloader to add class files automatically instead of useing require statements.
