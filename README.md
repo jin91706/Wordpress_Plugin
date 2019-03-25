@@ -2,7 +2,7 @@
 
 This plugin servers several purposes.
 - Boilerplate code for future plugin development.
-- Demonstrates ability to development an MVC architecture in Wordpress.
+- Demonstrates ability to develop an MVC architecture in Wordpress.
 - Adds an autoloader to add class files automatically instead of useing require statements.
 - Adds techniques to route URLs to specific template files for view rendering.
 - Adds a controller to handle requests.
